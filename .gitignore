@@ -1,0 +1,11 @@
+target/
+out/
+.mvn/
+.vscode
+.allure
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
