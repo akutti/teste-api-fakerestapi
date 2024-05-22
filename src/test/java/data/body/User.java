@@ -2,7 +2,6 @@ package data.body;
 
 public class User {
 
-
     Integer id;
     String userName;
     String password;

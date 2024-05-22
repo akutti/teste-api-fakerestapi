@@ -7,6 +7,5 @@ public class Hook {
     @Before
     public void init(){
         BaseTest.setup();
-
     }
 }
